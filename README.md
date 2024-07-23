@@ -1,15 +1,14 @@
-[![MasterHead](https://static.myfigurecollection.net/upload/pictures/2024/01/08/3861710.gif)](https://dmsimara.io)
+[![MasterHead](https://upload.wikimedia.org/wikipedia/commons/7/7e/Knowledge_Is_Human_Homepage_Animated_Banner.gif)](https://dmsimara.io)
 <h1 align="center">Hi 👋, I'm Daniella</h1>
 <h3 align="center">BSIT Student at PUP Manila</h3>
-<img align="right" alt="Coding" width="400" src="[https://i.gifer.com/FTLF.gif](https://i.gifer.com/FTLF.mp4)">
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dmsimara" alt="dmsimara" /></a> </p>
+<img align="right" alt="Coding" width="400" src="[https://i.gifer.com/FTLF.gif](https://i.pinimg.com/originals/76/09/46/7609468e97e15d1da8d14d534be7366c.gif)">
 
 - 🌱 I’m currently learning **CSS, JS, and Java**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/daniella simara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniella simara" height="30" width="40" /></a>
+<a href="https://instagram.com/d.simara_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="d.simara_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
