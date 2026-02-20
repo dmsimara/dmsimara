@@ -1,12 +1,9 @@
 <a href="https://dmsimara.io">
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Knowledge_Is_Human_Homepage_Animated_Banner.gif" alt="MasterHead">
 </a>
-<h1 align="center">Hi 👋, I'm Daniella</h1>
-<h3 align="center">BSIT Student at PUP Manila</h3>
+<h1 align="center">Hi 👋, I'm Dani</h1>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/76/09/46/7609468e97e15d1da8d14d534be7366c.gif">
 
-
-- 🌱 I’m currently learning **CSS, JS, and Java**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
